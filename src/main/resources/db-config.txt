@@ -1,0 +1,4 @@
+jdbcUrl =  jdbc:oracle:thin:@192.168.204.143:1521:PSMS
+user = psms
+password = cyber
+devMode = true
